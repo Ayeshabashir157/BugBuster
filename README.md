@@ -1,15 +1,13 @@
 # Hi, I am Ayesha!
 Experienced Manual QA Engineer passionate about ensuring software quality through meticulous testing practices. I specialize in crafting detailed test cases, executing comprehensive test plans, and collaborating closely with development teams to deliver high-quality software solutions.
 
-This repository serves as a showcase of my skills, featuring a curated selection of detailed test cases, test plans, and bug reports from various projects.
-
 Key Skills:
 
 🚀 Manual Testing: Proficient in creating and executing detailed test cases to identify bugs and ensure software functionality across platforms.
 
 🤖 Test Planning: Skilled in developing test strategies and plans that align with project goals and quality standards.
 
-🐛 Bug Tracking: Experienced in using bug tracking tools (e.g., JIRA, Bugzilla) to prioritize issues, collaborate with teams, and drive resolutions.
+🐛 Bug Tracking: Experienced in using bug tracking tools (clickup) to prioritize issues, collaborate with teams, and drive resolutions.
 
 👥 Collaboration: Effective communicator and team player, adept at fostering collaborative environments and contributing to continuous improvement.
 
